@@ -11,3 +11,5 @@ venv/
 # Ignore OS files (Mac, Windows)
 .DS_Store
 Thumbs.db
+
+.env
